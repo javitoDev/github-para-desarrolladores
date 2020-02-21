@@ -1,1 +1,2 @@
-alert("Hola mundo")
+alert("Hola mundo");
+alert ("Editado");
